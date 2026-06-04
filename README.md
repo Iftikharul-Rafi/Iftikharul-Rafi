@@ -44,7 +44,9 @@ Currently I'm focusing on improving my full-stack development skills and buildin
 
 ## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikharul-Rafi&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iftikharul-Rafi&layout=compact&theme=tokyonight" />
+</p>
 
 ## Connect With Me
 
