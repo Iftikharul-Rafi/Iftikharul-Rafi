@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" />
+  <img src="./Blue and Orange Geometric Web Banner.jpg" alt="Banner" />
 </p>
 
 # Hi 👋 I'm Iftikharul Islam Rafi
