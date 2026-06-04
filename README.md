@@ -33,9 +33,7 @@ Currently I'm focusing on improving my full-stack development skills and buildin
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iftikharul-Rafi&show_icons=true&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Iftikharul-Rafi&show_icons=true&theme=radical)
 
 
 ## GitHub Streak
