@@ -31,15 +31,33 @@ Currently I'm focusing on improving my full-stack development skills and buildin
 - 🚀 Learning Advanced React
 - 📚 Practicing Problem Solving
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iftikharul-Rafi&show_icons=true&theme=tokyonight" />
+</p>
+
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Iftikharul-Rafi&theme=tokyonight" />
+</p>
+
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikharul-Rafi&layout=compact&theme=tokyonight" />
+</p>
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/iftikharul-rafi/" target="_blank">
-LinkedIn
+<p align="left">
+<a href="https://www.linkedin.com/in/iftikharul-rafi/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<br>
-
-<a href="https://github.com/Iftikharul-Rafi" target="_blank">
-GitHub
+<a href="mailto:iftikharulrafi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
+</p>
