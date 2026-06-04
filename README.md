@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" />
+</p>
+
 # Hi 👋 I'm Iftikharul Islam Rafi
 
 ### Junior Web Developer
