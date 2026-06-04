@@ -33,7 +33,7 @@ Currently I'm focusing on improving my full-stack development skills and buildin
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Iftikharul-Rafi&show_icons=true&theme=radical)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iftikharul-Rafi&show_icons=true&theme=tokyonight" />
 
 
 ## GitHub Streak
@@ -44,9 +44,7 @@ Currently I'm focusing on improving my full-stack development skills and buildin
 
 ## Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikharul-Rafi&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftikharul-Rafi&layout=compact&theme=tokyonight" />
 
 ## Connect With Me
 
